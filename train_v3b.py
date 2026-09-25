@@ -13,11 +13,11 @@ from helmholtz import Helmholtz_Loss
 
 # ========== CONFIGURATION ==========
 EXPERIMENT_NAME = 'V3c'
-PARENT_DIRECTORY = '/Users/leifefrancisco/Documents/Workspace/PI_CNN_V2/PI_CNN_V3a'
+PARENT_DIRECTORY = ''
 
 # Standardized Paths
-DATA_PATH = '/Users/leifefrancisco/Documents/Workspace/PI_CNN_V2/PI_CNN_V3a/V3a_a_0_001/data'
-RESULTS_PATH = f"/Users/leifefrancisco/Documents/Workspace/PI_CNN_V2/PI_CNN_V3a/{EXPERIMENT_NAME}_results"
+DATA_PATH = ''
+RESULTS_PATH = f" "
 
 # File Outputs
 MODEL_SAVE_FILE = f'{RESULTS_PATH}/best_model.pth'
